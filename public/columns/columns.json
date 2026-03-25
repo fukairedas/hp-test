@@ -1,0 +1,24 @@
+{
+  "featuredPost": {
+    "id": 1,
+    "category": "トレンド解説",
+    "title": "2026年のサプリメント市場を牽引する「フェムテック×パーソナライズ」の可能性",
+    "description": "女性特有の健康課題をテクノロジーで解決するフェムテック市場が拡大する中、サプリメント業界でも個人の体質や悩みに合わせたパーソナライズ化が加速しています。本記事では、最新の市場動向と成功する商品企画のポイントを解説します。",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80&w=1200",
+    "date": "2026.03.15",
+    "author": "REDAS 企画開発チーム",
+    "file": "column-001.html"
+  },
+  "columns": [
+    {
+      "id": 2,
+      "category": "成分辞典",
+      "title": "次世代エイジングケア成分「NMN」の最新エビデンスと配合時の注意点",
+      "description": "話題のNMN（ニコチンアミドモノヌクレオチド）について、最新の研究データや、商品化する際の安定性・コストの課題と対策をまとめました。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&q=80&w=800",
+      "date": "2026.03.10",
+      "author": "REDAS 研究開発部",
+      "file": "column-002.html"
+    }
+  ]
+}
